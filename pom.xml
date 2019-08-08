@@ -20,6 +20,7 @@
 	</properties>
 
 	<dependencies>
+<!--		dependency for zuul for api-gateway-->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
